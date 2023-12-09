@@ -1,8 +1,6 @@
 <!--
 **Toky-Tahmid/Toky-Tahmid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 -->
 <img  alt="codeing" width="2000" src="https://github.com/toky-tahmid/Toky-Tahmid/assets/109718561/59d8316d-1f93-4fe7-a1ef-0acfc2d6adaa">
 
@@ -17,6 +15,46 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=toky-tahmid&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=toky-tahmid&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=toky-tahmid&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+# Projects:
+ # Live- [Visit Tech]( https://client-side-ad087.web.app/)
+# Features:
+## Professional Highlights
+
+- **Web Application Development:** Spearheaded the design and implementation of a user-centric home page featuring a navigation bar, dynamic brand cards, and essential platform details for seamless user experience.
+
+- **Secure Product Contribution:** Developed a private "Add Product" section with a user-friendly form, ensuring secure and authorized access for authenticated users to contribute to the website's product catalog.
+
+- **User Authentication and Error Handling:** Engineered a robust login system with a toggle between login and registration screens, incorporating intelligent error handling for prompt alerts, enhancing overall user experience and account security.
+
+- **Exclusive Private Routes:** Implemented private routes to restrict unauthorized access, redirecting users to the login page. Only authenticated users with proper credentials can access exclusive routes, ensuring the protection of sensitive information.
+
+  
+ # Live- [Visit Marketplace]( https://client-site-1f3aa.web.app/)
+# Features:
+## Professional Achievements
+
+- **Front-End Design Excellence:** Orchestrated the development of a sophisticated homepage with a user-friendly navigation bar, visually engaging banners, and real-time job listings, enhancing the overall user experience.
+
+- **Secure Product Contribution:** Implemented a secure and private "Add Product" route, allowing users to seamlessly contribute to the platform's offerings. Designed a meticulous form for manual product additions, ensuring immediate visibility within the job listings.
+
+- **User-Centric Login Experience:** Engineered a seamless login page with toggling between login and registration interfaces. Implemented enhanced security measures, including alert notifications, to provide users with a smooth and confidential access experience.
+
+- **Exclusive Private Routes and User Engagement:** Established exclusive private routes for registered users, ensuring a personalized experience. Developed features like "My Added Jobs," "My Bids," and "Bid Requests" for efficient tracking, management, and engagement, contributing to a dynamic and interactive platform.
+
+  
+  # Live- [Visit survey](https://survey-website-7a2c3.web.app) 
+# Features:
+## Professional Highlights
+
+- **UI/UX Excellence:** Led the design and development of a polished Home page with an intuitive interface, featuring a navigational toolbar, striking banners, and dynamic sections like Featured and Latest Surveys, capturing user attention and enhancing exploration.
+
+- **Survey Management Expertise:** Engineered the Survey Page to provide users with a comprehensive view of curated surveys, enabling them to gain valuable insights into each questionnaire's purpose and content, contributing to an enriched user experience.
+
+- **Monetization Strategy Implementation:** Designed and implemented the Price Page, introducing premium services for Pro Users to elevate their experience. Pro Users gain the ability to engage with surveys through comments, enhancing overall survey participation and interaction.
+
+- **Administrative Dashboard Development:** Spearheaded the creation of a Dashboard Page offering tailored experiences. Extended privileges for administrators include role assignments for users and the ability to review payment histories. The addition of a specialized role for surveyors facilitates dynamic content management on the platform.
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=toky-tahmid&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
