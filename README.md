@@ -4,14 +4,11 @@
 Here are some ideas to get you started:
 
 -->
-
-
 <img  alt="codeing" width="2000" src="https://github.com/toky-tahmid/Toky-Tahmid/assets/109718561/59d8316d-1f93-4fe7-a1ef-0acfc2d6adaa">
 
-
-
-# 💫 About Me:
-🔭 I’m currently working on searching jobs<br>🌱 I’m currently learning next.js<br>💬 Ask me about react<br>⚡ Fun fact- I am lazy
+<p align="center">
+ 💫 About Me:<br>
+🔭 I’m currently working on searching jobs<br>🌱 I’m currently learning next.js<br>💬 Ask me about react<br>⚡ Fun fact- I am lazy</p>
 
 
 # 💻 Tech Stack:
