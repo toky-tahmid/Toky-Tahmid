@@ -8,8 +8,7 @@ Here are some ideas to get you started:
 
 <img  alt="codeing" width="2000" src="https://github.com/toky-tahmid/Toky-Tahmid/assets/109718561/59d8316d-1f93-4fe7-a1ef-0acfc2d6adaa">
 
-<h1 align="center">Hi 👋, I'm Toky_Tahmid</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
 
 # 💫 About Me:
 🔭 I’m currently working on searching jobs<br>🌱 I’m currently learning next.js<br>💬 Ask me about react<br>⚡ Fun fact- I am lazy
