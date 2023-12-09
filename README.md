@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=toky-tahmid&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=toky-tahmid&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# Projects:
-# Project Name: Electro Tech
- # Live- [Visit Tech]( https://client-side-ad087.web.app/)
+# Projects: 
+ # Electro Tech || Live- [Visit Tech]( https://client-side-ad087.web.app/)
 # Features:
 ## Professional Highlights
 
@@ -30,8 +29,8 @@ Here are some ideas to get you started:
 
 - **Exclusive Private Routes:** Implemented private routes to restrict unauthorized access, redirecting users to the login page. Only authenticated users with proper credentials can access exclusive routes, ensuring the protection of sensitive information.
 
-  # Project Name: MarketPlace
- # Live- [Visit Marketplace]( https://client-site-1f3aa.web.app/)
+
+ #  MarketPlace|| Live- [Visit Marketplace]( https://client-site-1f3aa.web.app/)
 # Features:
 ## Professional Achievements
 
@@ -43,8 +42,8 @@ Here are some ideas to get you started:
 
 - **Exclusive Private Routes and User Engagement:** Established exclusive private routes for registered users, ensuring a personalized experience. Developed features like "My Added Jobs," "My Bids," and "Bid Requests" for efficient tracking, management, and engagement, contributing to a dynamic and interactive platform.
 
-   # Project Name: Survey site
-  # Live- [Visit survey](https://survey-website-7a2c3.web.app) 
+   # Project Name: 
+  # Survey site || Live- [Visit survey](https://survey-website-7a2c3.web.app) 
 # Features:
 ## Professional Highlights
 
